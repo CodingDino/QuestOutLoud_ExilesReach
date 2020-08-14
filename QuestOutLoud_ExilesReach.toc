@@ -1,0 +1,11 @@
+## Interface: 80000
+## Title: QuestOutLoud - Exile's Reach
+## Notes: QuestOutLoud module for Exile's Reach Quests
+## Author: Jiyambi
+## Version: 8.0.0
+## X-License: MIT
+## Dependencies: QuestOutLoud
+
+QuestOutLoud_ExilesReach_Neutral.lua
+QuestOutLoud_ExilesReach_Alliance.lua
+QuestOutLoud_ExilesReach_Horde.lua
