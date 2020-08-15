@@ -349,6 +349,326 @@ QuestOutLoud:RegisterSounds( {
 		duration = 999
 	},
 
+	--- Paladin
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 58923, 
+		displayTitle = "A Paladin's Service", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\APaladinsService-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 58923, 
+		displayTitle = "A Paladin's Service", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\APaladinsService-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Paladin
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 58946, 
+		displayTitle = "The Divine's Shield", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\TheDivinesShield-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 58946, 
+		displayTitle = "The Divine's Shield", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\TheDivinesShield-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Rogue
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 58933, 
+		displayTitle = "The Deadliest of Poisons", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\TheDeadliestOfPoisons-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 58933, 
+		displayTitle = "The Deadliest of Poisons", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\TheDeadliestOfPoisons-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Rogue
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 58917, 
+		displayTitle = "A Rogue's End", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Horde\\ARoguesEnd-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 58917, 
+		displayTitle = "A Rogue's End", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Horde\\ARoguesEnd-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Warrior
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 58914, 
+		displayTitle = "A Warrior's End", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Horde\\AWarriorsEnd-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 58914, 
+		displayTitle = "A Warrior's End", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Horde\\AWarriorsEnd-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Warrior
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 58915, 
+		displayTitle = "Hjalmar's Final Execution", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\HjalmarsFinalExecution-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 58915, 
+		displayTitle = "Hjalmar's Final Execution", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\HjalmarsFinalExecution-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Warlock
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 58962, 
+		displayTitle = "A Warlock's Bargain", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AWarlocksBargain-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 58962, 
+		displayTitle = "A Warlock's Bargain", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AWarlocksBargain-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Shaman
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 59002, 
+		displayTitle = "A Shaman's Duty", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AShamansDuty-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 59002, 
+		displayTitle = "A Shaman's Duty", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AShamansDuty-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Monk
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 59347, 
+		displayTitle = "A Monk's Focus", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AMonksFocus-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 59347, 
+		displayTitle = "A Monk's Focus", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AMonksFocus-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Monk
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 59349, 
+		displayTitle = "One Last Spar", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\OneLastSpar-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 59349, 
+		displayTitle = "One Last Spar", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\OneLastSpar-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Druid
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 59350, 
+		displayTitle = "A Druid's Form", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\ADruidsForm-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 59350, 
+		displayTitle = "A Druid's Form", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\ADruidsForm-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Mage
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 59352, 
+		displayTitle = "A Mage's Knowledge", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AMagesKnowledge-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 59352, 
+		displayTitle = "A Mage's Knowledge", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AMagesKnowledge-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Mage
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 59354, 
+		displayTitle = "The Best Way to Use Sheep", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\TheBestWayToUseSheep-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 59354, 
+		displayTitle = "The Best Way to Use Sheep", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\TheBestWayToUseSheep-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Hunter
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 59356, 
+		displayTitle = "Hunting the Stalker", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\HuntingTheStalker-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 59356, 
+		displayTitle = "Hunting the Stalker", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\HuntingTheStalker-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Hunter
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 59355, 
+		displayTitle = "A Hunter's Trap", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AHuntersTrap-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 59355, 
+		displayTitle = "A Hunter's Trap", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\AHuntersTrap-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
+	--- Hunter
+	--- TODO: RECORD
+
+	{ 
+		triggerType = "questAccept", 
+		triggerID = 60168, 
+		displayTitle = "The Art of Taming", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\TheArtOfTaming-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 60168, 
+		displayTitle = "The Art of Taming", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\TheArtOfTaming-C.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+
 	---
 
 	{ 
@@ -706,7 +1026,106 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questCompletion", 
 		triggerID = 59590, 
 		displayTitle = "What's Your Specialty?", 
-		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-C.ogg",
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Priest-C.ogg",
+		NPCName = "Patrice Lancaster", 
+		duration = 999
+	},
+
+	--- Paladin
+	--- TODO: RECORD
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 999999, 
+		displayTitle = "What's Your Specialty?", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Paladin-C.ogg",
+		NPCName = "Patrice Lancaster", 
+		duration = 999
+	},
+
+	--- Mage
+	--- TODO: RECORD
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 999999, 
+		displayTitle = "What's Your Specialty?", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Mage-C.ogg",
+		NPCName = "Patrice Lancaster", 
+		duration = 999
+	},
+
+	--- Rogue
+	--- TODO: RECORD
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 999999, 
+		displayTitle = "What's Your Specialty?", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Rogue-C.ogg",
+		NPCName = "Patrice Lancaster", 
+		duration = 999
+	},
+
+	--- Warrior
+	--- TODO: RECORD
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 999999, 
+		displayTitle = "What's Your Specialty?", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Warrior-C.ogg",
+		NPCName = "Patrice Lancaster", 
+		duration = 999
+	},
+
+	--- Shaman
+	--- TODO: RECORD
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 999999, 
+		displayTitle = "What's Your Specialty?", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Shaman-C.ogg",
+		NPCName = "Patrice Lancaster", 
+		duration = 999
+	},
+
+	--- Hunter
+	--- TODO: RECORD
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 999999, 
+		displayTitle = "What's Your Specialty?", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Hunter-C.ogg",
+		NPCName = "Patrice Lancaster", 
+		duration = 999
+	},
+
+	--- Warlock
+	--- TODO: RECORD
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 999999, 
+		displayTitle = "What's Your Specialty?", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Warlock-C.ogg",
+		NPCName = "Patrice Lancaster", 
+		duration = 999
+	},
+
+	--- Monk
+	--- TODO: RECORD
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 999999, 
+		displayTitle = "What's Your Specialty?", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Monk-C.ogg",
+		NPCName = "Patrice Lancaster", 
+		duration = 999
+	},
+
+	--- Druid
+	--- TODO: RECORD
+	{ 
+		triggerType = "questCompletion", 
+		triggerID = 999999, 
+		displayTitle = "What's Your Specialty?", 
+		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\WhatsYourSpecialty-Druid-C.ogg",
 		NPCName = "Patrice Lancaster", 
 		duration = 999
 	},
