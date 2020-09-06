@@ -11,7 +11,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Freeing the Light", 
 		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\FreeingTheLight-A.ogg",
 		NPCName = "Lightspawn", 
-		duration = 999
+		duration = 24
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -19,7 +19,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Freeing the Light", 
 		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\FreeingTheLight-C.ogg",
 		NPCName = "Lightspawn",  
-		duration = 999
+		duration = 12
 	},
 
 	---
@@ -30,7 +30,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Killclaw the Terrible", 
 		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\KillclawTheTerrible-A.ogg",
 		NPCName = "Danger Sign", 
-		duration = 999
+		duration = 15
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -38,7 +38,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Killclaw the Terrible", 
 		soundFile = "QuestOutLoud_EasternKingdoms\\ExilesReach_Alliance\\KillclawTheTerrible-C.ogg",
 		NPCName = "Hidden Treasure Chest", 
-		duration = 999
+		duration = 5
 	},
 
 
