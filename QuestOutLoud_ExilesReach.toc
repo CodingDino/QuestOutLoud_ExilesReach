@@ -1,8 +1,8 @@
-## Interface: 80000
+## Interface: 90000
 ## Title: QuestOutLoud - Exile's Reach
 ## Notes: QuestOutLoud module for Exile's Reach Quests
 ## Author: Jiyambi
-## Version: 8.0.0
+## Version: 9.0.0
 ## X-License: MIT
 ## Dependencies: QuestOutLoud
 
