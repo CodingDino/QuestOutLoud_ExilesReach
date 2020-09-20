@@ -1,5 +1,5 @@
 -----------------------------------------------
---   QuestOutLoud_ExilesReach_Alliance.lua   --
+--   QuestOutLoud_ExilesReach_Neutral.lua   --
 -----------------------------------------------
 
 QuestOutLoud:RegisterSounds( {
@@ -9,7 +9,7 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questAccept", 
 		triggerID = 54933, 
 		displayTitle = "Freeing the Light", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Alliance\\FreeingTheLight-A.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Neutral\\FreeingTheLight-A.ogg",
 		NPCName = "Lightspawn", 
 		duration = 24
 	},
@@ -17,7 +17,7 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questCompletion", 
 		triggerID = 54933, 
 		displayTitle = "Freeing the Light", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Alliance\\FreeingTheLight-C.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Neutral\\FreeingTheLight-C.ogg",
 		NPCName = "Lightspawn",  
 		duration = 12
 	},
@@ -28,7 +28,7 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questAccept", 
 		triggerID = 56839, 
 		displayTitle = "Killclaw the Terrible", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Alliance\\KillclawTheTerrible-A.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Neutral\\KillclawTheTerrible-A.ogg",
 		NPCName = "Danger Sign", 
 		duration = 15
 	},
@@ -36,7 +36,7 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questCompletion", 
 		triggerID = 56839, 
 		displayTitle = "Killclaw the Terrible", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Alliance\\KillclawTheTerrible-C.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Neutral\\KillclawTheTerrible-C.ogg",
 		NPCName = "Hidden Treasure Chest", 
 		duration = 5
 	}

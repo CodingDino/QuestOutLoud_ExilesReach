@@ -119,6 +119,9 @@ QuestOutLoud:RegisterSounds( {
 		NPCName = "Captain Garrick", 
 		duration = 14
 	},
+
+	-- TODO: Rerecord, wording changed, low prio
+	-- The others... taken... Need... food...
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 54952, 
@@ -130,6 +133,10 @@ QuestOutLoud:RegisterSounds( {
 
 	---
 
+	-- TODO: Re-record, wording changed, low prio
+	-- "This is Alaria, a draenei shaman who aws with the lost expedition. She's nearly starved to death. 
+	-- We need to get her something to eat! Slay some of the nearby wildlife for their meat. 
+	-- Bring whatever you find here to cook. If we can help Alaria regain her strength, she might be able to tell us what happened to the others."
 	{ 
 		triggerType = "questAccept", 
 		triggerID = 55174, 
@@ -157,6 +164,11 @@ QuestOutLoud:RegisterSounds( {
 
 	---
 
+	-- TODO: Re-record, wording changed, low prio
+	-- "Alaria says that the quillboar kidnapped the rest of the expedition... including my son. 
+	-- Chances are we'll to brave the quillboar's den. That's no small feat. They are for more aggressive and 
+	-- intelligen than the murlocs you faced earlier. I need to make sure I'm not sending you to your death. 
+	-- We're going to have one last sparring session."" 
 	{ 
 		triggerType = "questAccept", 
 		triggerID = 59254, 
@@ -195,6 +207,10 @@ QuestOutLoud:RegisterSounds( {
 
 	---
 
+	-- TODO: Re-record, wording changed, low prio
+	-- "From what I can gather, the quilboar are performing a necromantic ritual on one of the expedition members. 
+	-- Their chief is Geolord Grek'og. He is the one who seeks to drain the life from our friend. 
+	-- Slay Grek'og and save the captive member of the expedition. He may know where the others were taken." 
 	{ 
 		triggerType = "questAccept", 
 		triggerID = 55186, 
@@ -214,6 +230,10 @@ QuestOutLoud:RegisterSounds( {
 
 	---
 
+	-- TODO: Re-record, wording changed, low prio
+	-- "Quilboar are primitive and savage. They rarely practice any magic other than geomancy. 
+	-- But these particular quilboar seem to be dabbling in necromancy. They must be stopped. 
+	-- Slay the quilboar in the den. We cannot allow them to raise an army of the undead!" 
 	{ 
 		triggerType = "questAccept", 
 		triggerID = 55184, 
@@ -222,6 +242,8 @@ QuestOutLoud:RegisterSounds( {
 		NPCName = "Austin Huxworth", 
 		duration = 25
 	},
+	-- TODO: Re-record, wording changed, low prio
+	-- "Good work. I hope those quilboar learn that necromancy is not a path to power." 
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 55184, 
@@ -430,8 +452,11 @@ QuestOutLoud:RegisterSounds( {
 	},
 
 	--- Warrior
-	--- TODO: RECORD
-
+	-- TODO: RECORD - HIGH PRIO
+	-- Private Cole
+	-- "Hey, <name>! You're a warrior, right? Maybe you can deal with this... situation. 
+	-- I was scouting the area with Lindie's device and saw a ghost who was offering power to any "true" warriors. 
+	-- I know you're still new at this, but why don't you try going over there? We could use every advantage against these ogres."
 	{ 
 		triggerType = "questAccept", 
 		triggerID = 58914, 
@@ -440,6 +465,9 @@ QuestOutLoud:RegisterSounds( {
 		NPCName = "UNKNOWN", 
 		duration = 999
 	},
+	-- Hjalmar the Undying (swedish sounding undead vrykul ghost guy)
+	-- "You are no hero of myth and legend... but I see potential within you. Stand still, and 
+	-- I shall share with you my mightiest technique. And then I implore you to end my suffering."
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 58914, 
@@ -450,7 +478,11 @@ QuestOutLoud:RegisterSounds( {
 	},
 
 	--- Warrior
-	--- TODO: RECORD
+	-- TODO: RECORD - HIGH PRIO
+	-- Hjalmar the Undying (swedish sounding undead vrykul ghost guy)
+	-- "You now wield my most powerful skill, young warrior. Now use it to finish me! These ogres trapped 
+	-- my spirit here long ago for daring to defy them. Only through a glorious death will I finally be 
+	-- allowed to rest. It is the only way I will see my brothers and sisters in the afterlife."
 
 	{ 
 		triggerType = "questAccept", 
@@ -460,6 +492,8 @@ QuestOutLoud:RegisterSounds( {
 		NPCName = "UNKNOWN", 
 		duration = 999
 	},
+	-- Private Cole
+	-- "Sounds like you had an adventure! Where do you think that ghost went after you faught it?"
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 58915, 
@@ -673,7 +707,7 @@ QuestOutLoud:RegisterSounds( {
 
 	{ 
 		triggerType = "questAccept", 
-		triggerID = 58960, 
+		triggerID = 55965, 
 		displayTitle = "Westward Bound", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Alliance\\WestwardBound-A.ogg",
 		NPCName = "Bjorn Stouthands", 
@@ -681,7 +715,7 @@ QuestOutLoud:RegisterSounds( {
 	},
 	{ 
 		triggerType = "questCompletion", 
-		triggerID = 58960, 
+		triggerID = 55965, 
 		displayTitle = "Westward Bound",
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Alliance\\WestwardBound-C.ogg",
 		NPCName = "Bjorn Stouthands", 
