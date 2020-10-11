@@ -11,7 +11,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Freeing the Light", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Neutral\\FreeingTheLight-A.ogg",
 		NPCName = "Lightspawn", 
-		duration = 24
+		duration = 25
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -19,7 +19,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Freeing the Light", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Neutral\\FreeingTheLight-C.ogg",
 		NPCName = "Lightspawn",  
-		duration = 12
+		duration = 13
 	},
 
 	---
