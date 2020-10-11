@@ -14,7 +14,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Warming Up", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WarmingUp-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 9
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -22,7 +22,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Warming Up", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WarmingUp-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 10
 	},
 
 	---
@@ -33,7 +33,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Stand Your Ground", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\StandYourGround-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 8
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -41,7 +41,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Stand Your Ground", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\StandYourGround-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 6
 	},
 
 	---
@@ -52,7 +52,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Brace for Impact", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\BraceForImpact-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 7
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -60,7 +60,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Brace for Impact", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\BraceForImpact-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 7
 	},
 
 	---
@@ -71,7 +71,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Murloc Mania", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\MurlocMania-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 16
 	},
 	{ 
 		triggerType = "questProgress", 
@@ -79,7 +79,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Murloc Mania", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\MurlocMania-P.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 5
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -87,7 +87,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Murloc Mania", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\MurlocMania-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 3
 	},
 
 	---
@@ -98,7 +98,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Emergency First Aid", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\EmergencyFirstAid-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 9
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -106,7 +106,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Emergency First Aid", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\EmergencyFirstAid-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 4
 	},
 
 	---
@@ -115,17 +115,17 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questAccept", 
 		triggerID = 59931, 
 		displayTitle = "Finding the Lost Expedition", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\FindingTheLostExpedition-A.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\FindingtheLostExpedition-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 10
 	},
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 59931, 
 		displayTitle = "Finding the Lost Expedition", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\FindingTheLostExpedition-C.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\FindingtheLostExpedition-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 6
 	},
 
 	---
@@ -136,7 +136,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Cooking Meat", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\CookingMeat-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 17
 	},
 	{ 
 		triggerType = "questProgress", 
@@ -144,7 +144,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Cooking Meat", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\CookingMeat-P.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 3
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -152,7 +152,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Cooking Meat", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\CookingMeat-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 12
 	},
 
 	---
@@ -163,7 +163,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Enhanced Combat Tactics", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\EnhancedCombatTactics-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 19
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -171,7 +171,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Enhanced Combat Tactics", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\EnhancedCombatTactics-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 5
 	},
 
 	---
@@ -182,7 +182,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Northbound", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\Northbound-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 11
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -190,7 +190,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Northbound", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\Northbound-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 5
 	},
 
 	--- Hunter only
@@ -218,17 +218,17 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questAccept", 
 		triggerID = 59938, 
 		displayTitle = "Down with the Quilboar", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\DownWithTheQuilboar-A.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\DownwiththeQuilboar-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 22
 	},
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 59938, 
 		displayTitle = "Down with the Quilboar", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\DownWithTheQuilboar-C.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\DownwiththeQuilboar-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 16
 	},
 
 	---
@@ -239,7 +239,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Forbidden Quilboar Necromancy", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ForbiddenQuilboarNecromancy-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 20
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -247,7 +247,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Forbidden Quilboar Necromancy", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ForbiddenQuilboarNecromancy-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 7
 	},
 
 	---
@@ -256,17 +256,17 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questAccept", 
 		triggerID = 59940, 
 		displayTitle = "The Choppy Booster Mk 5", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheChoppyBoosterMk5-A.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheChoppyBoosterMK5-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 31
 	},
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 59940, 
 		displayTitle = "The Choppy Booster Mk 5", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheChoppyBoosterMk5-C.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheChoppyBoosterMK5-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 4
 	},
 
 	---
@@ -275,17 +275,17 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questAccept", 
 		triggerID = 59941, 
 		displayTitle = "Re-Sizing the Situation", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ReSizingTheSituation-A.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ReSizingtheSituation-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 32
 	},
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 59941, 
 		displayTitle = "Re-Sizing the Situation", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ReSizingTheSituation-C.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ReSizingtheSituation-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 8
 	},
 
 	---
@@ -296,7 +296,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "The Re-Deather", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheReDeather-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 28
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -304,7 +304,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "The Re-Deather", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheReDeather-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 6
 	},
 
 	---
@@ -315,7 +315,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Stocking Up on Supplies", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\StockingUpOnSupplies-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 10
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -323,7 +323,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Stocking Up on Supplies", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\StockingUpOnSupplies-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 5
 	},
 
 	---
@@ -517,7 +517,15 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "A Shaman's Duty", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\AShamansDuty-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 36
+	},
+	{ 
+		triggerType = "questProgress", 
+		triggerID = 59969, 
+		displayTitle = "A Shaman's Duty", 
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\AShamansDuty-P.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 7
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -525,7 +533,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "A Shaman's Duty", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\AShamansDuty-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 20
 	},
 
 	--- Monk
@@ -596,6 +604,14 @@ QuestOutLoud:RegisterSounds( {
 		triggerID = 59954, 
 		displayTitle = "A Mage's Knowledge", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\AMagesKnowledge-A.ogg",
+		NPCName = "UNKNOWN", 
+		duration = 999
+	},
+	{ 
+		triggerType = "questProgress", 
+		triggerID = 59954, 
+		displayTitle = "A Mage's Knowledge", 
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\AMagesKnowledge-P.ogg",
 		NPCName = "UNKNOWN", 
 		duration = 999
 	},
@@ -696,7 +712,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Westward Bound", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WestwardBound-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 11
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -704,7 +720,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Westward Bound",
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WestwardBound-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 13
 	},
 
 	---
@@ -715,7 +731,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "The Harpy Problem", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheHarpyProblem-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 23
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -723,7 +739,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "The Harpy Problem", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheHarpyProblem-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 5
 	},
 
 	---
@@ -732,17 +748,17 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questAccept", 
 		triggerID = 59949, 
 		displayTitle = "Who Lurks in the Pit", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WhoLurksInThePit-A.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WhoLurksinthePit-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 30
 	},
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 59949, 
 		displayTitle = "Who Lurks in the Pit", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WhoLurksInThePit-C.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WhoLurksinthePit-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 10
 	},
 
 	---
@@ -753,7 +769,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "The Rescue of Herbert Gloomburst", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheRescueOfHerbertGloomburst-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 21
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -761,7 +777,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "The Rescue of Herbert Gloomburst", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\TheRescueOfHerbertGloomburst-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 15
 	},
 
 	---
@@ -772,7 +788,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Purge the Totems", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\PurgeTheTotems-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 17
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -780,7 +796,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Purge the Totems", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\PurgeTheTotems-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 7
 	},
 
 	---
@@ -791,7 +807,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Harpy Culling", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\HarpyCulling-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 13
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -799,7 +815,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Harpy Culling", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\HarpyCulling-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 5
 	},
 
 	---
@@ -808,17 +824,17 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questAccept", 
 		triggerID = 59947, 
 		displayTitle = "Message to Base", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\MessageToBase-A.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\MessagetoBase-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 15
 	},
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 59947, 
 		displayTitle = "Message to Base", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\MessageToBase-C.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\MessagetoBase-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 10
 	},
 
 	---
@@ -829,7 +845,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "To Darkmaul Citadel", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ToDarkmaulCitadel-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 18
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -837,7 +853,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "To Darkmaul Citadel", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ToDarkmaulCitadel-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 6
 	},
 
 	---
@@ -848,7 +864,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Right Beneath Their Eyes", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\RightBeneathTheirEyes-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 24
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -856,7 +872,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Right Beneath Their Eyes",
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\RightBeneathTheirEyes-C.ogg",
 		NPCName = "UNKNOWN",
-		duration = 999
+		duration = 4
 	},
 
 	---
@@ -867,7 +883,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Controlling their Stones", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ControllingTheirStones-A.ogg",
 		NPCName = "UNKNOWN",
-		duration = 999
+		duration = 17
 	},
 	{ 
 		triggerType = "questProgress", 
@@ -875,7 +891,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Controlling their Stones", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ControllingTheirStones-P.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 7
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -883,7 +899,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Controlling their Stones", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\ControllingTheirStones-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 10
 	},
 
 	---
@@ -894,7 +910,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Catapult Destruction", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\CatapultDestruction-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 27
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -902,7 +918,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Catapult Destruction", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\CatapultDestruction-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 13
 	},
 
 	---
@@ -913,7 +929,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Like Ogres to the Slaughter", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\LikeOgresToTheSlaughter-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 15
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -921,7 +937,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Like Ogres to the Slaughter", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\LikeOgresToTheSlaughter-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 3
 	},
 
 	---
@@ -932,7 +948,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Dungeon: Darkmaul Citadel", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\DungeonDarkmaulCitadel-A.ogg",
 		NPCName = "UNKNOWN",  
-		duration = 999
+		duration = 34
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -940,7 +956,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Dungeon: Darkmaul Citadel", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\DungeonDarkmaulCitadel-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 7
 	},
 
 	---
@@ -951,7 +967,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "An End to Beginnings", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\AnEndToBeginnings-A.ogg",
 		NPCName = "UNKNOWN",
-		duration = 999
+		duration = 9
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -959,7 +975,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "An End to Beginnings", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\AnEndToBeginnings-C.ogg",
 		NPCName = "UNKNOWN",
-		duration = 999
+		duration = 6
 	},
 
 	---
@@ -970,15 +986,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Welcome to Orgrimmar", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WelcomeToOrgrimmar-A.ogg",
 		NPCName = "UNKNOWN",
-		duration = 999
-	},
-	{ 
-		triggerType = "questProgress", 
-		triggerID = 60343, 
-		displayTitle = "Welcome to Orgrimmar", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WelcomeToOrgrimmar-P.ogg",
-		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 16
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -986,7 +994,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Welcome to Orgrimmar", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WelcomeToOrgrimmar-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 7
 	},
 
 	---
@@ -997,7 +1005,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Finding Your Way", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\FindingYourWay-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 32
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -1005,7 +1013,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Finding Your Way", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\FindingYourWay-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 5
 	},
 
 	---
@@ -1014,17 +1022,17 @@ QuestOutLoud:RegisterSounds( {
 		triggerType = "questAccept", 
 		triggerID = 60345, 
 		displayTitle = "License to Ride", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\LicenseToRide-A.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\LicensetoRide-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 11
 	},
 	{ 
 		triggerType = "questCompletion", 
 		triggerID = 60345, 
 		displayTitle = "License to Ride", 
-		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\LicenseToRide-C.ogg",
+		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\LicensetoRide-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 6
 	},
 
 	---
@@ -1035,7 +1043,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "What's Your Specialty?", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WhatsYourSpecialty-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 30
 	},
 
 	--- TODO: multiple hand ins for different trainers
@@ -1102,7 +1110,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "What's Your Specialty?", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\WhatsYourSpecialty-Shaman-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 9
 	},
 
 	--- Hunter
@@ -1157,7 +1165,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Home Is Where the Hearth Is", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\HomeIsWhereTheHearthIs-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 29
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -1165,7 +1173,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Home Is Where the Hearth Is",
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\HomeIsWhereTheHearthIs-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 5
 	},
 
 	---
@@ -1176,7 +1184,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "An Urgent Meeting", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\AnUrgentMeeting-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 16
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -1184,7 +1192,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "An Urgent Meeting", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\AnUrgentMeeting-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 3
 	},
 
 	---
@@ -1195,7 +1203,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Mission Statement", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\MissionStatement-A.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 13
 	},
 	{ 
 		triggerType = "questCompletion", 
@@ -1203,7 +1211,7 @@ QuestOutLoud:RegisterSounds( {
 		displayTitle = "Mission Statement", 
 		soundFile = "QuestOutLoud_ExilesReach\\ExilesReach_Horde\\MissionStatement-C.ogg",
 		NPCName = "UNKNOWN", 
-		duration = 999
+		duration = 7
 	}
 
 
