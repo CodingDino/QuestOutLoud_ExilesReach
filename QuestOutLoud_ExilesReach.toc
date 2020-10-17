@@ -1,7 +1,7 @@
 ## Interface: 90001
-## Title: QuestOutLoud - Exile's Reach
+## Title: Quest Out Loud - Exile's Reach
 ## Notes: QuestOutLoud module for Exile's Reach Quests
-## Author: Jiyambi
+## Author: Bounder Games
 ## Version: 1.0.0
 ## X-License: MIT
 ## Dependencies: QuestOutLoud
